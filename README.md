@@ -1,5 +1,4 @@
-![logo](https://github.com/devtanzir/devtanzir/blob/main/TANZIR%20IBNE%20ALI.png?raw=true)
-
+![logo](https://github.com/devtanzir/devtanzir/blob/main/banner.gif)
 <h1 align="center">Hi 👋, I'm Tanzir Ibne Ali</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
